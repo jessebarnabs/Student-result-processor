@@ -9,9 +9,5 @@ A simple Python program that processes student results. Built while learning Pyt
 - `test_module.py`: a file used to test the code.
 
 
-```
-python Main.py
-```
-
 ## Author
 Jesse Barnabs, Africa International University
